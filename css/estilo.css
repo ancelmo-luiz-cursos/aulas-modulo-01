@@ -1,0 +1,7 @@
+p {
+  color: gray;
+}
+
+.clickable {
+  cursor: pointer;
+}
